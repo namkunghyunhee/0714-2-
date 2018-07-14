@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531533778246.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E2047018",
+    "lastKnownWriteTime" : 1531533936,
+    "last_content_update" : 1531537117886,
+    "path" : "C:/R/project180714/BMI.R",
+    "project_path" : "BMI.R",
+    "properties" : {
+        "cursorPosition" : "40,6",
+        "scrollLine" : "24",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
